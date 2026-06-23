@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # xiaoshuo-skill 小说创作辅助技能
 
 这是一个为小说平台作者设计的创作辅助技能，帮助作者进行小说创作前的准备工作。
